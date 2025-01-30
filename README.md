@@ -42,4 +42,4 @@ Chic-Charm/
 
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/yourusername/chic-charm.git
+   git clone https://github.com/Smartyraj/E-Commerce-Website.git
